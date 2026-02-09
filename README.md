@@ -1,8 +1,10 @@
-ppt-ooxml-translator is an AI-agent Skill that standardizes and automates PPTX (OOXML) localization workflows. It provides an end-to-end pipeline from unpacking, text extraction, translation apply-back, terminology normalization, and font standardization to final repacking, with structured JSON outputs for integration across clients and orchestration systems. The Skill is model-agnostic; translation model choice is delegated to the caller.
+
 
 # ppt-ooxml-tool
 
 Tool-agnostic CLI for PPTX OOXML localization workflows.
+
+ppt-ooxml-translator is an AI-agent Skill that standardizes and automates PPTX (OOXML) localization workflows. It provides an end-to-end pipeline from unpacking, text extraction, translation apply-back, terminology normalization, and font standardization to final repacking, with structured JSON outputs for integration across clients and orchestration systems. The Skill is model-agnostic; translation model choice is delegated to the caller.
 
 ## What It Does
 - Unpack `.pptx` into OOXML files
