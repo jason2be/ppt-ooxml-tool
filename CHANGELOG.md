@@ -4,6 +4,14 @@ All notable changes to this project are documented in this file.
 
 The format is based on Keep a Changelog, and this project follows Semantic Versioning.
 
+## [0.1.1] - 2026-02-09
+### Added
+- Add `SKILL.md` to the public repository so the package can be distributed and indexed explicitly as a Skill.
+- Add bilingual (Chinese/English) Skill description emphasizing automation workflow and model-agnostic design.
+
+### Notes
+- No runtime behavior changes; this is a distribution/documentation release.
+
 ## [0.1.0] - 2026-02-09
 ### Added
 - Initial public CLI package structure with `pyproject.toml` and console entrypoint `ppt-ooxml-tool`.
